@@ -1,0 +1,1 @@
+"This project demonstrates SQL Joins using sample Customers and Orders tables. It includes queries for INNER, LEFT, RIGHT, FULL (via UNION), CROSS, SELF, and NATURAL joins, along with interview Q&A for quick learning and preparation."
